@@ -3,7 +3,7 @@
 ### [👨‍✈] Do php, js and others i do
 ### [📚] am learning languages and stuff
 ### [🐄] an cow
-### [🕸] ![made an website](https://hayden1321.com) ~~(may not work depending on mood)~~
+### [🕸] [made an website](https://hayden1321.com) ~~(may not work depending on mood)~~
 -------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamsharp)
