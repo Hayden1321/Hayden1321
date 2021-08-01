@@ -6,7 +6,7 @@
 ### [🕸] [made an website](https://hayden1321.com) ~~(may not work depending on mood)~~
 -------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamsharp)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamsharp&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamsharp&layout=compact)
 
