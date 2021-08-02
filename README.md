@@ -23,5 +23,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamsharp&layout=compact)
 </details>
 
+-------------
 
-
+###### *would add more but this already feels overdone and also cannot think of anything else*
