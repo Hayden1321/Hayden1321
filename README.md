@@ -1,4 +1,8 @@
-# HELLO I DO THE CODING THINGS
+![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=HELLO%20I%20DO%20THE%20CODING%20THINGS&width=1000&height=200)
+
+###### (There is no proof saying i stole this directly from [@LucaTanks](https://github.com/LucaTanks))
+-------------
+
 ### [✨] Am cool
 ### [👨‍✈] Do php, js and others i do
 ### [📚] am learning languages and stuff
