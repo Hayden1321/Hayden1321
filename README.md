@@ -12,13 +12,13 @@
 ### [🌍] may be able to reach me here [hayden1321@hayden1321.com](mailto:hayden1321@hayden1321.com)
 -------------
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d8c02cf7-53cd-4b8f-89bc-13521f8cd53a)
+![Hayden's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d8c02cf7-53cd-4b8f-89bc-13521f8cd53a&layout=compact)
 
 <details>
 <summary>Other statistics</summary>
 <br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamsharp&show_icons=true)
+![Hayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamsharp&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamsharp&layout=compact)
 </details>
