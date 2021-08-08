@@ -12,7 +12,7 @@
 ### [🌍] may be able to reach me here [hayden1321@hayden1321.com](mailto:hayden1321@hayden1321.com)
 -------------
 
-![Hayden's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d8c02cf7-53cd-4b8f-89bc-13521f8cd53a&layout=compact)
+![Hayden's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hayden1321&layout=compact)
 
 <details>
 <summary>Other statistics</summary>
