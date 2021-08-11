@@ -14,6 +14,9 @@
 
 ![Hayden's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hayden1321&layout=compact)
 
+#### im gonna start hosting stuff on digitalocean because idk so:
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=116d458754ae&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 <details>
 <summary>Other statistics</summary>
 <br>
