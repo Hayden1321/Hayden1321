@@ -21,9 +21,9 @@
 <summary>Other statistics</summary>
 <br>
   
-![Hayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamsharp&show_icons=true)
+![Hayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayden1321&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamsharp&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayden1321&layout=compact)
 </details>
 
 -------------
