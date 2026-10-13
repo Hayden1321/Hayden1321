@@ -14,4 +14,3 @@ Mainly a Rust & TypeScript enjoyer, though I dabble in C# for work.
 
 [![WakaTime](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fwakatime.com%2Fbadge%2Fuser%2Fd8c02cf7-53cd-4b8f-89bc-13521f8cd53a.svg&query=%28%2F%2F*%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D&label=time%20coding&style=flat-square&labelColor=007ec6&color=007ec6&logo=wakatime&logoColor=white)](https://wakatime.com/@Hayden1321)
 [![Discord](https://img.shields.io/badge/discord-Hayden1321-5865F2?style=flat-square&labelColor=5865F2&logo=discord&logoColor=white)](https://discord.com/users/302446241709555723)
-![Location](https://img.shields.io/badge/based%20around-London-EA4335?style=flat-square&labelColor=EA4335&logo=googlemaps&logoColor=white)
